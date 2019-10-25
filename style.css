@@ -20,4 +20,8 @@ p
 {
   text-align: center;
 }
-
+hr
+{
+  width: 75%;
+  height: 2px;
+}
