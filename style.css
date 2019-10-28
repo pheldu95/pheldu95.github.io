@@ -23,7 +23,7 @@ p
 }
 .work
 {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .line
@@ -32,6 +32,10 @@ p
   height: 2px;
   background-color: blue;
   margin: auto;
+}
+body
+{
+  padding: 100px
 }
 .resume
 {
