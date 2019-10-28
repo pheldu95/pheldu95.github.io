@@ -20,10 +20,17 @@ p
 .education
 {
   display: flex;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
 }
 .education-text
 {
 
+}
+.china
+{
+    width: 250px;
 }
 .work
 {
