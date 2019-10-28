@@ -40,7 +40,7 @@ p
 {
     display: flex;
     padding-top: 10px;
-    padding_bottom: 10px;
+    padding-bottom: 10px;
     width 100%;
 }
 .kayaking
@@ -48,6 +48,12 @@ p
     width:250px;
     float: right;
 }
+.breck
+{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
 .bsp
 {
     width: 250px;
