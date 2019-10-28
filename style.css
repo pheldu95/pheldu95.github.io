@@ -1,3 +1,8 @@
+body
+{
+    font-family: Calibri;
+}
+
 p
 {
   color: blue;
@@ -26,5 +31,10 @@ p
   width: 75%;
   height: 2px;
   background-color: blue;
+  margin: auto;
+}
+.resume
+{
+  width: 700px;
   margin: auto;
 }
