@@ -36,7 +36,17 @@ p
 {
   /*text-align: center;*/
 }
-
+.indier
+{
+    display: flex;
+    padding-top: 10px;
+    padding_bottom: 10px;
+    width 100%;
+}
+.kayaking:
+{
+    width:250px;
+}
 .line
 {
   width: 100%;
