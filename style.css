@@ -21,6 +21,10 @@ p
 {
   text-align: center;
 }
+.education-text
+{
+
+}
 .work
 {
   /*text-align: center;*/
@@ -28,9 +32,9 @@ p
 
 .line
 {
-  width: 75%;
+  width: 100%;
   height: 2px;
-  background-color: blue;
+  background-color: black;
   margin: auto;
 }
 body
