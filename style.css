@@ -66,6 +66,8 @@ p
   height: 2px;
   background-color: black;
   margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 body
 {
