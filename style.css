@@ -19,7 +19,7 @@ p
 }
 .education
 {
-  /*text-align: center;*/
+  display: flex;
 }
 .education-text
 {
