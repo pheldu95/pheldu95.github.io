@@ -52,7 +52,21 @@ p
   width: 250px;
   /*float: right;*/
 }
+.bsp
+{
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+.bsp-text
+{
 
+}
+.bsp-photo
+{
+  width: 250px;
+}
 .line
 {
   width: 100%;
