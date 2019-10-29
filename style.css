@@ -67,6 +67,21 @@ p
 {
   width: 250px;
 }
+.shanghai
+{
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%
+}
+.shanghai-text
+{
+
+}
+.CISB
+{
+  width: 250px;
+}
 .line
 {
   width: 100%;
