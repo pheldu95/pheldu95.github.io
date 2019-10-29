@@ -37,6 +37,21 @@ p
 {
   /*text-align: center;*/
 }
+.indier
+{
+  display: flex;
+  padding-top: 10px;
+  width: 100%;
+}
+.indier-text
+{
+
+}
+.kayaking
+{
+  width: 250px;
+  /*float: right;*/
+}
 
 .line
 {
@@ -57,7 +72,7 @@ body
 }
 .zoom 
 {
-  padding: 50px;
+  padding: 10px;
   
   transition: transform .2s;
   width: 200px;
