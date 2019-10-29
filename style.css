@@ -80,8 +80,7 @@ body
 }
 .zoom 
 {
-  padding: 50px;
-  
+  padding: 50px; 
   transition: transform .2s;
   width: 200px;
   height: 200px;
